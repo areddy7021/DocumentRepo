@@ -1,8 +1,8 @@
 # document-repository-sample
 
-A working Spring Boot + Spring HATEOAS application implementing a hypermedia API supporting HAL <http://stateless.co/hal_specification.html>
+A working Spring Boot + Spring HATEOAS application implementing a hypermedia API supporting HAL to construct the Hyperlinking to the child elements.
 
-Working solution to retrieve all the related one to many relationship docs. 
+A working solution to retrieve all the related one to many relationship docs to projects as part of the Document Repository.
     
 ## Usage
 ### Running the Spring Boot app
